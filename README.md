@@ -1,4 +1,5 @@
 # Raspberry Pi 5 IoT Control System Setup Script
+# V0.1
 
 *Last updated: 2024-07-20
 
@@ -51,7 +52,7 @@ This script automates the setup process for a Raspberry Pi 5 based IoT Control S
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Architecture Overview: IoT Control System v4.8.0
+## Architecture Overview: IoT Control System v0.1
 
 ```mermaid
 graph TD

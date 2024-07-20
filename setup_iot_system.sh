@@ -22,7 +22,7 @@
 # For Windows users:
 # If you're having issues connecting to your Raspberry Pi, you may need to
 # remove the old SSH key. Use this command in PowerShell (replace IP if needed):
-#    ssh-keygen -R 10.0.0.44
+#    ssh-keygen -R [IP]
 #
 # For more detailed information, please refer to the README.md file.
 # ============================================================================
